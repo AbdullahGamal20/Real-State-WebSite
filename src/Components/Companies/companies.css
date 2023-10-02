@@ -1,0 +1,10 @@
+.c_container{
+  justify-content: space-around;
+  gap: 1rem;
+  margin: 50px 0;
+  height: 100px;
+}
+.c_container img{
+  width: 13rem !important;
+  height: 100px !important;
+}
